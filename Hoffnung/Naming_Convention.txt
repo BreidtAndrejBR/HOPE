@@ -1,0 +1,33 @@
+WIP, noch nicht abgestimmt und so
+-----------------------------------
+Nur finale Assets!
+
+Namenskonvention:
+
+N = Number
+
+Modelle werden exportiert im Format: 
+	OBJ für statische
+	FBX für animierte
+	Exporteinstellungen: 
+	  Pivot setzen
+	  History löschen
+	  Scaling beachten
+	  Achsen beachten
+	  Rotation beachten, front schaut richtung ...
+
+Texturen: normal 24Bit, diffuse 24bit, roughness 8bit, metallic 8bit
+	Nur Quadratisch mit power of 2: 512, 1024, 2048, 4096
+	Bitte anhand des bildausschnitts weise wählen. 
+           (icons brauchen keine 4k! :)
+
+Sound: Char_soundTypeN.wav
+
+Music: Scene_musicName.ogg
+
+Voice: Char_sceneN_N.wav
+
+Story: ActN_sceneN.docx
+
+Prefabs: objectTypeN
+
